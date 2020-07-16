@@ -22,6 +22,11 @@ module.exports = {
           position: 'right',
         },
         {
+          href: 'https://twitter.com/Phonethic_',
+          label: 'Twitter',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/Shammah/Phonethic',
           label: 'GitHub',
           position: 'right',
