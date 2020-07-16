@@ -40,3 +40,6 @@ In case you're wondering if your phone can run a validator, you may compare its 
 | CPU              | Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53) |
 | GPU              | Mali-T880 MP12                                        |
 | Memory (RAM)     | 4GB                                                   |
+
+## Todo
+This guide is a work in progress and will be improved over time. One major thing I'd like to try is to build Prysm from source, but this requires some more investigation.
