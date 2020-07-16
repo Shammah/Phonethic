@@ -17,5 +17,5 @@ termux-wake-lock
 ./startubuntu.sh
 export PRYSM_ALLOW_UNVERIFIED_BINARIES=1
 cd prysm
-./prysm.sh validator
+./prysm.sh validator --beacon-rpc-provider=<beacon address goes here>
 ```

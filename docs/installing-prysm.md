@@ -49,3 +49,9 @@ If you need to copy your *deposit data*, know that you can select the deposit da
 :::
 
 Once the deposit has been processed and your validator is active, you can start validating from your phone!
+
+To do this, you have to pass on a beacon chain address to listen to. You can start your validator with the following command:
+
+```bash
+./prysm.sh validator --beacon-rpc-provider=<beacon address goes here>
+```
