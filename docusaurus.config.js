@@ -38,7 +38,7 @@ module.exports = {
           // It is recommended to set document id as docs home page (`docs/` path).
           homePageId: 'introduction',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Shammah/Phonethic',
+          editUrl: 'https://github.com/Shammah/Phonethic/blob/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
