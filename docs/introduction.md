@@ -42,7 +42,7 @@ In case you're wondering if your phone can run a validator, you may compare its 
 | Memory (RAM)     | 4GB                                                   |
 
 ## Todo
-This guide is a work in progress and will be improved over time. One major thing I'd like to try is to build Prysm from source, but this requires some more investigation.
+This guide is a work in progress and will be improved over time. One major thing I'd like to try is to build Prysm from source, but this requires some more investigation. It would also be nice if this entire guide could be automated into a single Android app.
 
 ## Contact
 If you need to contact me directly, you can find me in [Prysm's Discord](https://discord.gg/YMVYzv6) under the username *Shammah*.
