@@ -8,7 +8,7 @@ keywords:
     - developer
 ---
 
-Because working on a small device such as a phone can be quite cumbersome at times, it is highly recommended to operate your phone through your desktop computer or laptop instead. This way you'll have access to a bigger and better screen screen, and easier access with the comfort of your own mouse and keyboard.
+Because working on a small device such as a phone can be quite cumbersome at times, it is highly recommended to operate your phone through your desktop computer or laptop instead. This way you will have access to a bigger and better screen, including easier access with the comfort of your own mouse and keyboard.
 
 ## Developer Mode
 In order to achieve this, we first have to enable the *developer mode* on our phone. This can be achieved by going to **Settings -> About Phone -> Software Information**.

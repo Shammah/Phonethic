@@ -10,7 +10,7 @@ keywords:
   - android
 ---
 
-Since we are living in *another layer*, so to speak, we no longer have access to the packages we have just installed in Termux. In addition, we also need an additional package: `curl`. Therefore we need to execute the following `apt-get` command:
+Since we are living in *another layer*, so to speak, we no longer have access to the packages we have just installed in Termux. In addition, we also need an additional package: `curl`. Therefore we need to execute the following `apt-get` commands:
 
 ```bash
 apt-get update
